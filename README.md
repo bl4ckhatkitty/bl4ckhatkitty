@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning pwn
 - 📫 How to reach me bl4ckhatkitty@gmail.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bl4ckhatkitty&show_icons=true&theme=onedark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bl4ckhatkitty&show_icons=true&theme=tokyonight)
 
 
 <!---
