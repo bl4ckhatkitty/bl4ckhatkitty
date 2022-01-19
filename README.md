@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bl4ckhatkitty
 - 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning pwn
+- 🌱 I’m currently learning all and nothing :)
 - 📫 How to reach me bl4ckhatkitty@gmail.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bl4ckhatkitty&show_icons=true&theme=tokyonight)
